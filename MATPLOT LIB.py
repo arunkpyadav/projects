@@ -248,7 +248,7 @@ plt.show()
 # In[109]:
 
 
-plt.pie(price,labels=fruit,radius=3)
+plt.pie(price,labels=fruit,radius=3,autopct='%0.1f%%')
 plt.pie([1],colors='w',radius=1.5)
 plt.show()
 
