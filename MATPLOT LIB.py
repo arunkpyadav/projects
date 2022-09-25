@@ -100,7 +100,7 @@ Name=list(student.keys())
 # In[32]:
 
 
-#marks=list(student.values())
+marks=list(student.values())
 
 
 # In[41]:
